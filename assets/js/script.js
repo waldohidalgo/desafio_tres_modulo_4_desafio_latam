@@ -54,3 +54,14 @@ telefonoPropietarioInput.addEventListener("input", function (eventoInput) {
     this.value = this.value.slice(0, -1);
   }
 });
+
+const botonLimpiarCampos = document.getElementById("boton_limpiar");
+
+botonLimpiarCampos.addEventListener("click", function () {
+  nombrePropietarioInput.value = "";
+  telefonoPropietarioInput.value = "";
+  direccionPropietarioInput.value = "";
+  nombreMascotaInput.value = "";
+  tipoAnimalInput.value = "perro";
+  motivoConsultaInput.value = "";
+});
