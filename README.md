@@ -16,8 +16,11 @@ El proyecto mostrando lo requerido lo muestro en la siguiente imagen:
 He creado en el archivo llamado **modulos.js** las siguientes clases:
 
 -Clase **Propietario**
+
 -Clase **Animal** que extiende de la Clase **Propietario**
+
 -Clase **Mascota** que extiende de la clase **Animal**
+
 -Clase **Consulta** que extiende de la clase **Mascota**
 
 ### 2. Crear los métodos get y set para la clase de mascota
