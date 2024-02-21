@@ -5,6 +5,10 @@ Los requisitos del desafío son los siguientes:
 ![Requisitos Hoja 1 y 2](./assets/img/screenshots/requisitos_uno_dos.jpg)
 ![Requisitos Hoja 3 y 4](./assets/img/screenshots/requisitos_tres_cuatro.jpg)
 
+El proyecto mostrando lo requerido lo muestro en la siguiente imagen:
+
+![ScreenShot Imagen Proyecto Funcional](./assets/img/screenshots/proyecto_funcional.png)
+
 # Requerimientos cumplidos
 
 ### 1. Crear las clases en ES6 respetando la Herencia indicada en el diagrama de clases
